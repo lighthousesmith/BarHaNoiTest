@@ -1,0 +1,13 @@
+
+Port 5173 is in use, trying another one...
+
+  VITE v7.3.2  ready in 282 ms
+
+  ➜  Local:   https://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+7:13:43 PM [vite] (client) hmr update /src/index.css
+7:13:55 PM [vite] (client) hmr update /src/index.css (x2)
+7:14:08 PM [vite] (client) hmr update /src/index.css (x3)
+7:14:13 PM [vite] (client) page reload scripts/.dotykacka-oauth.html
+^Cnode scripts/open-dotykacka-oauth.mjs
